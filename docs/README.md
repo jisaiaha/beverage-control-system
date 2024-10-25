@@ -39,5 +39,8 @@ This project was developed using:
 ### System and User Interaction Diagrams
 All UML diagrams were created using **PlantUML** to visualize system structure and user interactions.
 
-- **Standard User Use Case**: ![Standard User Diagram](uml/User_UseCaseDiagram.png)
-- **Admin User Use Case**: ![Admin User Diagram](uml/Admin_UseCaseDiagram.png)
+**Standard User Use Case**: <br>
+![Standard User Diagram](uml/User_UseCaseDiagram.png)<br>
+
+**Admin User Use Case**: <br>
+![Admin User Diagram](uml/Admin_UseCaseDiagram.png) <br>
